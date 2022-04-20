@@ -1,6 +1,9 @@
 
 //Add
-
+function add(num1,num2){
+    showResult('add' + num1 + '+' + num1,num2 + num2)
+    
+}
 
 //Multiply
 
